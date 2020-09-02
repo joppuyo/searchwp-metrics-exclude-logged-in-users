@@ -1,0 +1,24 @@
+{
+  "name": "joppuyo/searchwp-metrics-exclude-logged-in-users",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0-or-later",
+  "description": "Prevent SearchWP from logging searches when logged in eg. in the admin area",
+  "authors": [
+    {
+      "name": "Johannes Siipola"
+    },
+    {
+      "name": "Jon Christopher"
+    }
+  ],
+  "keywords": [
+    "wordpress",
+    "searchwp",
+    "wordpress-plugin",
+    "wp-plugin"
+  ],
+  "require": {
+    "php": ">=5.3.0",
+    "composer/installers": "~1.0"
+  }
+}
